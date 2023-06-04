@@ -58,6 +58,12 @@ EVE: Ephemeral Vector Engines
 
 - General-purpose
 
+### 2023 ASPLOS
+
+Infinity Stream: Portable and Programmer-Friendly In-/Near-Memory Fusion
+
+- Compiler
+
 ### 2023 TCAD
 
 SDP: Co-Designing Algorithm, Dataflow, and Architecture for In-SRAM Sparse NN Acceleration
@@ -101,6 +107,12 @@ ReDCIM: Reconfigurable Digital Computing- In -Memory Processor With Unified FP/I
 ### 2022 VLSI
 
 A 12nm 121-TOPS/W 41.6-TOPS/mm2 All Digital Full Precision SRAM-based Compute-in-Memory with Configurable Bit-width For AI Edge Applications
+
+### 2022 MICRO
+
+Multi-Layer In-Memory Processing
+
+- Compiler
 
 ### 2022 DAC
 
