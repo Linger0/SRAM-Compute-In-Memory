@@ -104,6 +104,10 @@ ReDCIM: Reconfigurable Digital Computing- In -Memory Processor With Unified FP/I
 
 - Transpose SRAM
 
+### 2022 JSSC
+
+Two-Way Transpose Multibit 6T SRAM Computing-in-Memory Macro for Inference-Training AI Edge Chips
+
 ### 2022 VLSI
 
 A 12nm 121-TOPS/W 41.6-TOPS/mm2 All Digital Full Precision SRAM-based Compute-in-Memory with Configurable Bit-width For AI Edge Applications
