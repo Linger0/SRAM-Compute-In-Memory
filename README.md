@@ -1,4 +1,4 @@
-# SRAM-Based Compute-In-Memory
+# SRAM-Based Compute-In-Memory Accelerators/AI Chips
 
 Compute-in-memory has attracted growing attention. Among different memories, SRAM features high speed, precision, and compatibility with digital CMOS technology. Here is a collection of recent works on SRAM-based compute-in-memory.
 
