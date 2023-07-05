@@ -51,6 +51,10 @@ Compute-in-memory has attracted growing attention in the AI era. Among different
 
 - SDP: Co-Designing Algorithm, Dataflow, and Architecture for In-SRAM Sparse NN Acceleration [SW/HW co-design]
 
+TranCIM: Full-Digital Bitline-Transpose CIM-based Sparse Transformer Accelerator With Pipeline/Parallel Reconfigurable Modes
+
+- Extension version of [F. Tu et al. *ISSCC*, pp. 466-467, 2022]
+
 ### 2022 ISSCC
 
 - (11.5) Single-Mode CMOS 6T-SRAM Macros with Keeper-Loading-Free Peripherals and Row-Separate Dynamic Body Bias Achieving 2.53fW/bit Leakage for AIoT Sensing Platforms
