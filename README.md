@@ -1,4 +1,4 @@
-# SRAM-Based Compute-In-Memory
+# SRAM-Based Compute-In-Memory Accelerators/AI Chips
 
 Compute-in-memory has attracted growing attention. Among different memories, SRAM features high speed, precision, and compatibility with digital CMOS technology. Here is a collection of recent works on SRAM-based compute-in-memory.
 
@@ -103,6 +103,10 @@ ReDCIM: Reconfigurable Digital Computing- In -Memory Processor With Unified FP/I
 29.3 A 28nm 15.59μJ/Token Full-Digital Bitline-Transpose CIM-Based Sparse Transformer Accelerator with Pipeline/Parallel Reconfigurable Modes
 
 - Transpose SRAM
+
+### 2022 JSSC
+
+Two-Way Transpose Multibit 6T SRAM Computing-in-Memory Macro for Inference-Training AI Edge Chips
 
 ### 2022 VLSI
 
