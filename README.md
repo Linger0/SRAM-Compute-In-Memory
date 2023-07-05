@@ -8,7 +8,7 @@ Compute-in-memory has attracted growing attention. Among different memories, SRA
 存内计算技术已经受到了广泛的关注。在不同类型的存储器中，SRAM 速度快，精度高，并且和数字逻辑工艺完全兼容。这里收集了近几年关于 SRAM 的存内计算工作，主要关注**数字计算**的**架构设计**，会有少量**模拟计算**、**编译器**和**软硬件协同**的工作。期望各位大佬来补充，更新会放在 [Github](https://github.com/Linger0/SRAM-Compute-In-Memory) 上。
 -->
 
-<img src=./imgs/various-memory.png title="Fujiki et al. 2022 MICRO" width=50%/>
+<img src=./imgs/various-memory.png title="Fujiki et al. 2022 MICRO" width=80%/>
 
 ### 2023 ISSCC
 
@@ -75,6 +75,8 @@ SDP: Co-Designing Algorithm, Dataflow, and Architecture for In-SRAM Sparse NN Ac
 ReDCIM: Reconfigurable Digital Computing- In -Memory Processor With Unified FP/INT Pipeline for Cloud AI Acceleration
 
 - Extension version of [F. Tu et al. *ISSCC*, pp. 254-255, 2022]
+
+A Charge Domain SRAM Compute-in-Memory Macro With C-2C Ladder-Based 8-Bit MAC Unit in 22-nm FinFET Process for Edge Inference
 
 ### 2022 ISSCC
 
@@ -149,6 +151,8 @@ Eidetic: An In-Memory Matrix Multiplication Accelerator for Neural Networks
 A 13.7 TFLOPS/W Floating-point DNN Processor using Heterogeneous Computing Architecture with Exponent-Computing-in-Memory
 
 - Floating-point
+
+PIMCA: A 3.4-MB Programmable In-Memory Computing Accelerator in 28nm For On-Chip DNN Inference
 
 ### 2021 ASSCC
 
