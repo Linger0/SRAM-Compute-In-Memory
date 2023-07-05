@@ -50,10 +50,7 @@ Compute-in-memory has attracted growing attention in the AI era. Among different
 ### 2023 TCAD
 
 - SDP: Co-Designing Algorithm, Dataflow, and Architecture for In-SRAM Sparse NN Acceleration [SW/HW co-design]
-
-TranCIM: Full-Digital Bitline-Transpose CIM-based Sparse Transformer Accelerator With Pipeline/Parallel Reconfigurable Modes
-
-- Extension version of [F. Tu et al. *ISSCC*, pp. 466-467, 2022]
+- (Extension version of F. Tu et al. *ISSCC*, pp. 466-467, 2022) TranCIM: Full-Digital Bitline-Transpose CIM-based Sparse Transformer Accelerator With Pipeline/Parallel Reconfigurable Modes
 
 ### 2022 ISSCC
 
