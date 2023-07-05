@@ -76,6 +76,10 @@ ReDCIM: Reconfigurable Digital Computing- In -Memory Processor With Unified FP/I
 
 - Extension version of [F. Tu et al. *ISSCC*, pp. 254-255, 2022]
 
+TranCIM: Full-Digital Bitline-Transpose CIM-based Sparse Transformer Accelerator With Pipeline/Parallel Reconfigurable Modes
+
+- Extension version of [F. Tu et al. *ISSCC*, pp. 466-467, 2022]
+
 ### 2022 ISSCC
 
 11.5 Single-Mode CMOS 6T-SRAM Macros with Keeper-Loading-Free Peripherals and Row-Separate Dynamic Body Bias Achieving 2.53fW/bit Leakage for AIoT Sensing Platforms
