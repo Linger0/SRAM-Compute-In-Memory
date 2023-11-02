@@ -6,7 +6,7 @@ Compute-in-memory has attracted growing attention in the AI era. Among different
 
 ## List of Papers
 
-- 2023: [ISSCC](#2023-isscc), [MICRO](#2023-micro), [ASPLOS](#2023-asplos), [HPCA](#2023-hpca), [JSSC](#2023-jssc), [TCAD](#2023-tcad)
+- 2023: [ISSCC](#2023-isscc), [MICRO](#2023-micro), [ASPLOS](#2023-asplos), [HPCA](#2023-hpca), [DAC](#2023-dac), [JSSC](#2023-jssc), [TCAD](#2023-tcad)
 - 2022: [ISSCC](#2022-isscc), [VLSI](#2022-vlsi), [MICRO](#2022-micro), [DAC](#2022-dac), [GLSVLSI](#2022-glsvlsi), [JSSC](#2022-jssc), [TC](#2022-tc)
 - 2021: [ISSCC](#2021-isscc), [VLSI](#2021-vlsi), [ASSCC](#2021-asscc), [JSSC](#2021-jssc)
 - 2020: [ISSCC](#2020-isscc), [DAC](#2020-dac), [ISCAS](#2020-iscas), [JSSC](#2020-jssc), [TC](#2020-tc), [SSC-L](#2020-ssc-l)
