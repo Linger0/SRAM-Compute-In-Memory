@@ -2,11 +2,11 @@
 
 <div align=center><img src=./imgs/various-memory.png title="Fujiki et al. 2022 MICRO" width=50%/></div>
 
-Compute-in-memory has attracted growing attention in the AI era. Among different types of memory, SRAM features high speed, precision, and compatibility with digital CMOS technology. Here is a collection of recent work on SRAM-based compute-in-memory. Most of these work is focused on AI acceleration.
+Compute-in-memory has attracted growing attention in the AI era. Among different types of memory, SRAM features high speed, precision, and compatibility with digital CMOS technology. Here is a collection of recent work on SRAM-based compute-in-memory. Most of these work focuses on AI acceleration.
 
 ## List of Papers
 
-- 2023: [ISSCC](#2023-isscc), [ASPLOS](#2023-asplos), [HPCA](#2023-hpca), [JSSC](#2023-jssc), [TCAD](#2023-tcad)
+- 2023: [ISSCC](#2023-isscc), [MICRO](#2023-micro), [ASPLOS](#2023-asplos), [HPCA](#2023-hpca), [JSSC](#2023-jssc), [TCAD](#2023-tcad)
 - 2022: [ISSCC](#2022-isscc), [VLSI](#2022-vlsi), [MICRO](#2022-micro), [DAC](#2022-dac), [GLSVLSI](#2022-glsvlsi), [JSSC](#2022-jssc), [TC](#2022-tc)
 - 2021: [ISSCC](#2021-isscc), [VLSI](#2021-vlsi), [ASSCC](#2021-asscc), [JSSC](#2021-jssc)
 - 2020: [ISSCC](#2020-isscc), [DAC](#2020-dac), [ISCAS](#2020-iscas), [JSSC](#2020-jssc), [TC](#2020-tc), [SSC-L](#2020-ssc-l)
@@ -34,6 +34,15 @@ Compute-in-memory has attracted growing attention in the AI era. Among different
 - (29.1) A 32.5mW Mixed-Signal Processing-in-Memory-Based k-SAT Solver in 65nm CMOS with 74.0% Solvability for 30-Variable 126-Clause 3-SAT Problems
 - (29.2) Snap-SAT: A One-Shot Energy-Performance-Aware All-Digital Compute-in-Memory Solver for Large-Scale Hard Boolean Satisfiability Problems
 
+### 2023 MICRO
+
+- MAICC: A Lightweight Many-core Architecture with In-Cache Computing for Multi-DNN Parallel Inference
+
+### 2023 DAC
+
+- PIM-HLS: An Automatic Hardware Generation Tool for Heterogeneous Processing-In-Memory-based Neural Network Accelerators
+- AutoDCIM: An Automated Digital CIM Compiler
+
 ### 2023 ASPLOS
 
 - Infinity Stream: Portable and Programmer-Friendly In-/Near-Memory Fusion [Compiler]
@@ -46,11 +55,16 @@ Compute-in-memory has attracted growing attention in the AI era. Among different
 
 - (Extension version of F. Tu et al. *ISSCC*, pp. 254-255, 2022) ReDCIM: Reconfigurable Digital Computing- In -Memory Processor With Unified FP/INT Pipeline for Cloud AI Acceleration
 - A Charge Domain SRAM Compute-in-Memory Macro With C-2C Ladder-Based 8-Bit MAC Unit in 22-nm FinFET Process for Edge Inference
+- (Extension version) A Floating-Point 6T SRAM In-Memory-Compute Macro Using Hybrid-Domain Structure for Advanced AI Edge Chips
+- (Extension version of F. Tu et al. *ISSCC*, pp. 466-467, 2022) TranCIM: Full-Digital Bitline-Transpose CIM-based Sparse Transformer Accelerator With Pipeline/Parallel Reconfigurable Modes
+
+### 2023 TC
+
+- VSPIM: SRAM Processing-in-Memory DNN Acceleration via Vector-Scalar Operations
 
 ### 2023 TCAD
 
 - SDP: Co-Designing Algorithm, Dataflow, and Architecture for In-SRAM Sparse NN Acceleration [SW/HW co-design]
-- (Extension version of F. Tu et al. *ISSCC*, pp. 466-467, 2022) TranCIM: Full-Digital Bitline-Transpose CIM-based Sparse Transformer Accelerator With Pipeline/Parallel Reconfigurable Modes
 
 ### 2022 ISSCC
 
